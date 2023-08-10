@@ -1,0 +1,2 @@
+download on https://huggingface.co/bert-base-chinese/tree/main
+the one name "pytorch_model.bin"
